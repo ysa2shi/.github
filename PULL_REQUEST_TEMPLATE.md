@@ -1,18 +1,10 @@
-## 概要
-<!-- PRの背景・目的・概要 -->
+## 🔄 Details of Changes
+<!-- Describe what was changed in detail: files, logic, structure, etc. -->
 
+## ✅ Change Type (check all that apply)
+- [ ] Feature addition
+- [ ] Bug fix
+- [ ] Documentation update
 
-## 関連タスク
-<!-- 関連するIssueやチケットのリンクを貼る。Issueの場合は、「#<IssueNumber>」でリンクできる -->
-
-
-## やったこと
-<!-- このPRで何をしたのか？ -->
-
-
-## やらないこと
-<!-- このPRでやらないことは何か？ -->
-
-
-## 備考
-<!-- 残しておきたい情報 -->
+## 📝 Notes
+<!-- Optional: anything to note, test instructions, known issues, etc. -->
